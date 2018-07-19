@@ -1,2 +1,2 @@
-# timer
-Check http://akashadhikari.com.np/timer/ :time: 
+# Timer
+Check http://akashadhikari.com.np/timer/ :alarm_clock: :clock1:
